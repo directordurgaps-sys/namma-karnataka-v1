@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
   res.json({
     success: true,
     platform: "NAMMA KARNATAKA",
-    service: "YouTube + OTT Digital Platform",
+    service: "Video + OTT Digital Platform",
     version: "1.0.0",
     status: "Backend is running"
   });
